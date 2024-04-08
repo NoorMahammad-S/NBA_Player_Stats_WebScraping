@@ -63,6 +63,3 @@ The generated CSV file contains the following columns:
 
 Feel free to contribute to this project by creating pull requests or reporting issues.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
